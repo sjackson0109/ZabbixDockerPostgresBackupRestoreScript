@@ -1,0 +1,4 @@
+- Provide working examples of each mechanism, with 3-4 different compression-levels.
+- Expand logging to support a series of debug logging levels
+- Offload logging to the kernel log syslog watchdog, to take care of log rotation etc
+ 
